@@ -64,3 +64,113 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav {
+	display: block;
+	margin: 25px;
+}
+
+a {
+	margin-left: 100px;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+.logo {
+	display: inline-block;
+	margin-left: 100px;
+
+}
+
+b {
+	font-weight: bolder;
+	
+}
+
+.main-logo {
+	margin-left: 60px;
+}
+
+#button {
+	display: inline-block;
+	margin-left: 700px;
+}
+
+footer {
+	text-align: center;
+}
+
+.services {
+	display: inline-block;
+	margin: 20px;
+}
+
+.product {
+	display: inline-block;
+	margin: 20px;
+}
+
+.vision {
+	display: inline-block;
+	margin: 20px;
+}
+
+.header {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.main {
+	width: 50%;
+	float: left;
+	text-align: center;
+	margin-top: 12%;
+}
+
+.img_right {
+	width: 50%;
+	float: right;
+}
+
+.features_about {
+	width: 100%;
+
+
+}
+
+.features {
+	width: 50%;
+	margin: auto 0;
+}
+
+.about {
+	width: 50%;
+	float: right;
+}
+
+.middle_img {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.services_product_vision {
+	width: 90%;
+	margin: auto 0;
+}
+
+.services {
+	width: 33%;
+	float: left;
+}
+
+.product {
+	width: 33%;
+}
+
+.vision {
+	width: 33%;
+	float: right;
+	margin-top: 0;
+}
